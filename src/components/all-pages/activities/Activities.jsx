@@ -1,3 +1,4 @@
+
 import React from 'react'
  
  function Activities() {
@@ -5,5 +6,6 @@ import React from 'react'
      <div>This is activities page.</div>
    )
  }
+ 
  
  export default Activities;
