@@ -1,6 +1,7 @@
  import React, { useState } from 'react'
- import Card from '../../common/card';
+
  import DashboardNavbar from './DashboardNavbar';
+import Card from '../../common/Card';
  
  
  function Dashboard() {
