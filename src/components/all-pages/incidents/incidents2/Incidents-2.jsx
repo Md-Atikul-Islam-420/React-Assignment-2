@@ -67,4 +67,4 @@ function Incidents2() {
   )
 }
 
-export default Incidents2
+export default Incidents2;
